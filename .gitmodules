@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/thegamershollow/thegamershollow.github.io.git
 	branch = main
+[submodule "thegamershollow/public"]
+	path = thegamershollow/public
+	url = https://github.com/thegamershollow/thegamershollow.github.io.git
+	branch = main
