@@ -21,8 +21,8 @@ theme = "hamburg"
         languageCode = "en"
         languageName = "English"
         subtitle = "A Blog about Gaming For Gamers."
-        # Copyright notice. This is displayer in the footer.
-        copyright = "&copy;2023 The Gamer's Hollow"
+        # Copyright notice. This is displayed in the footer.
+        copyright = "&copy;2023 The Gamer's Hollow | Hero Image by Lorenzo Herrera on Unsplash"
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "About"
