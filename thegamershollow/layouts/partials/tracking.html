@@ -1,14 +1,9 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsID }}"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VQX9MGB601"></script>
 <script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-gtag('config', '{{ .Site.Params.GoogleAnalyticsID }}');
+  gtag('config', 'G-VQX9MGB601');
 </script>
-<head>
-    {{ if .Site.Params.GoogleAnalyticsID }}
-    {{ partial "analytics-gtag.html" . }}
-    {{ end }}
-</head>
