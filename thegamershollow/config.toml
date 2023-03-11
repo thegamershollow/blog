@@ -26,6 +26,10 @@ theme = "hamburg"
         copyright = "&copy;2023 The Gamer's Hollow | Hero Image by Lorenzo Herrera on Unsplash"
         [languages.en.menu]
             [[languages.en.menu.main]]
+                name = "Privacy"
+                identifier = "privacy"
+                url = "pages/privacy"
+            [[languages.en.menu.main]]
                 name = "About"
                 identifier = "about"
                 url = "pages/about"
