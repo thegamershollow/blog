@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head prefix="og: http://ogp.me/ns#">
-  {{ template "_internal/google_analytics.html" . }}
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   <meta property="og:title" content="{{ if ne .Permalink "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
+  {{ template "_internal/google_analytics.html" . }}
   {{ with .Site.Params.themecolor }}
     <meta name="theme-color" content="{{ . }}" />
   {{ end }}
