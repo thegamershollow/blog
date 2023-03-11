@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 draft: false
+date: 2023-03-11T13:58:41Z
 ---
 
 # Privacy Policy for The Gamers Hollow
