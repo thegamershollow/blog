@@ -14,6 +14,7 @@ theme = "hamburg"
 	subtitle = ""
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["posts"]
+    # Google Analytics 4
     googleAnalytics = 'G-VQX9MGB601'
 
 [languages]
