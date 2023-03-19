@@ -10,6 +10,8 @@ From material design color palette:
 #424242 - Gray 800
 
 #000000 - Black
+
+#3b3737 - Main Gray
 */
 
 /* pure colors for hamburg-theme foreign HTML documents */
@@ -62,8 +64,8 @@ From material design color palette:
 }
 
 .global-footer .sns-links a:hover {
-    border: 1px solid #558b2f;
-    color: #558b2f;
+    border: 1px solid #3b3737;
+    color: #3b3737;
 }
 
 /* The whole footer-area */
@@ -106,15 +108,15 @@ a:focus {
 /* Primary buttons are the ones in the page (not in the header) */
 .btn-primary {
     background-color: transparent;
-    border-color: #558b2f;
-    color: #558b2f;
+    border-color: #3b3737;
+    color: #3b3737;
 }
 
 .btn-primary:focus,
 .btn-primary:hover {
-    color: #558b2f;
+    color: #3b3737;
     background-color: #dcedc8;
-    border-color: #558b2f;
+    border-color: #3b3737;
 }
 
 .btn-primary.disabled,
