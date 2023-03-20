@@ -1,12 +1,13 @@
 baseurl = "https://thegamershollow.github.io/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
-title = "The Gamers Hollow"
+title = "The Gamer's Hollow"
 theme = "hamburg"
 
 [params]
-    # Short subtitle/tagline. This is displayed in the header.
-    themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
+    #Social Media
+    twitter="thegamershollow"
+    github="cal-thedevgirl"
     # To load additional CSS styles
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
@@ -44,7 +45,7 @@ theme = "hamburg"
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        subtitle = "A Blog about Gaming For Gamers."
+        subtitle = "A Blog About Gaming For Gamers."
         # Copyright notice. This is displayed in the footer.
         copyright = "&copy;2023 The Gamer's Hollow | Hero Image by Lorenzo Herrera on Unsplash"
         [languages.en.menu]
