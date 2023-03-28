@@ -1,5 +1,5 @@
 ---
-title: "Linus Media Group got Hacked"
+title: "Linus Media Group Got Hacked"
 date: 2023-03-28T14:46:47Z
 draft: false
 tags: [LTT, YouTube, Google, Breaking News, Important, Article, Overview]
