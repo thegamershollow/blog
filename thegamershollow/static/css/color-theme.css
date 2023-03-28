@@ -82,8 +82,8 @@ a:focus {
 
 /* Tags of articles and pages */
 .post-tag a {
-  border: 1px solid #757575;
-  color: #757575;
+border: 1px solid #757575;
+color: #757575;
 }
 
 .post-tag a:hover {
