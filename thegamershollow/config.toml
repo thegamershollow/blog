@@ -8,6 +8,7 @@ theme = "hamburg"
     #Social Media
     twitter="thegamershollow"
     github="cal-thedevgirl"
+    youtube="thegamershollow"
     # To load additional CSS styles
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
