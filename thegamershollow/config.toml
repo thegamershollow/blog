@@ -1,0 +1,82 @@
+baseurl = "https://thegamershollow.github.io/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
+title = "The Gamer's Hollow"
+theme = "hamburg"
+
+[params]
+    #Social Media
+    twitter="thegamershollow"
+    github="cal-thedevgirl"
+    # To load additional CSS styles
+    customCSS = ['hamburg.css']
+    # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
+    ShowGDPRNotice = true
+	subtitle = ""
+	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+	mainSections = ["posts"]
+    # Google Analytics 4
+    googleAnalytics = 'G-VQX9MGB601'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[languages]
+  [languages.en]
+    languageCode = "en"
+      languageName = "English"
+      subtitle = "A Blog About Gaming For Gamers."
+      # Copyright notice. This is displayed in the footer.
+      copyright = "&copy;2023 The Gamer's Hollow | Hero Image by Lorenzo Herrera on Unsplash"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Privacy"
+        identifier = "privacy"
+        url = "pages/privacy"
+    [[languages.en.menu.main]]
+        name = "About"
+        identifier = "about"
+        url = "pages/about"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
