@@ -122,7 +122,7 @@ color: #757575;
 a.btn-primary.disabled,
 a.btn-primary.disabled:focus {
     color: #757575;
-    background-color: #fff;
+    background-color: transparent;
     border-color: #bdbdbd;
 }
 
