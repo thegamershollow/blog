@@ -2,7 +2,7 @@ baseurl = "https://thegamershollow.github.io/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 title = "The Gamer's Hollow"
-theme = "gitX"
+theme = "hamburg"
 
 [params]
     #Social Media
