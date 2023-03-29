@@ -1,0 +1,35 @@
+{{ if or .HasPrev .HasNext }}
+  <div class="delimiter"></div>
+  <nav class="pagination" role="navigation">
+    {{ if .HasNext }}
+      <a class="btn btn-primary btn-older-posts" href="{{ .Next.URL }}">
+        <div>
+          <span aria-hidden="true">&larr;</span> {{ i18n "olderPosts" }}
+        </div>
+      </a>
+    {{ else }}
+      <a class="btn btn-primary btn-older-posts disabled" href="#">
+        <div>
+          <span aria-hidden="true">&larr;</span> {{ i18n "olderPosts" }}
+        </div>
+      </a>
+    {{ end }}
+    <div>
+      <span>{{ i18n "pageOf" . }}</span>
+    </div>
+    {{ if .HasPrev }}
+      <a class="btn btn-primary btn-newer-posts" href="{{ .Prev.URL }}">
+        <div>
+          {{ i18n "newerPosts" }} <span aria-hidden="true">&rarr;</span>
+        </div>
+      </a>
+    {{ else }}
+    <!-- Write your comments here  <a class="btn btn-primary btn-newer-posts disabled" href="#">
+        <div>
+          {{ i18n "newerPosts" }} <span aria-hidden="true">&rarr;</span>
+        </div>
+      </a>
+      -->
+    {{ end }}
+  </nav>
+{{ end }}
