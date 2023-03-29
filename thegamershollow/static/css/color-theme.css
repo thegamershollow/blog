@@ -128,9 +128,9 @@ a.btn-primary.disabled:focus {
 
 /* Default buttons are the ones in the header */
 .btn-default {
-  color: #fff;
-  background-color: transparent;
-  border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
 }
 
 .btn-default:focus,
@@ -141,8 +141,8 @@ a.btn-primary.disabled:focus {
 }
 
 .info {
-  background-color: #424242;
-  color: #fff;
+    background-color: #424242;
+    color: #fff;
 }
 
 .embedded-image {
