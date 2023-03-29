@@ -1,11 +1,11 @@
   </main>
   <footer class="container global-footer">
+    <div class="dark-mode-toggle">
+      {{ partial "toggle.html" }}
+    </div>
     <div class="copyright-note pull-left">
       {{ .Site.Copyright | safeHTML }}
       {{ partial "link.html" . }}
-    </div>
-    <div class="dark-mode-toggle">
-      {{ partial "toggle.html" }}
     </div>
   </footer>
 
