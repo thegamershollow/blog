@@ -169,3 +169,10 @@ blockquote {
 table, th, td {
     border: 1px solid #b9b0b0;
 }
+
+/* Code */
+code {
+    color: #c7254e;
+}
+
+

@@ -81,9 +81,11 @@ main {
 }
 
 @media (min-width: 900px) {
-  .language-container, .btn-home {
-    top: 20px;
-  }
+
+    .language-container,
+    .btn-home {
+        top: 20px;
+    }
 }
 
 /* Footer */
@@ -213,39 +215,46 @@ main {
     display: flex;
     justify-content: space-between;
 }
+
 #btn-all-tags {
     align-self: flex-end;
     margin-bottom: 13px;
 }
+
 .list-group-item {
-  border-radius: 0px !important;
+    border-radius: 0px !important;
 }
 
 /* Bootstrap adjustions */
 
 h1,
 .h1 {
-  font-size: 36px;
+    font-size: 36px;
 }
+
 h2,
 .h2 {
-  font-size: 30px;
+    font-size: 30px;
 }
+
 h3,
 .h3 {
-  font-size: 24px;
+    font-size: 24px;
 }
+
 h4,
 .h4 {
-  font-size: 18px;
+    font-size: 18px;
 }
+
 h5,
 .h5 {
-  font-size: 14px;
+    font-size: 14px;
 }
+
 h6,
 .h6 {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 pre {
@@ -259,19 +268,31 @@ pre code {
 }
 
 blockquote {
-     font-style:italic;
+    font-style: italic;
 }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
     font-family: "Source Sans Pro", "Kozuka Gothic Pr6N", Meiryo, sans-serif !important;
 }
 
-small, .small {
-  font-size: 80%;
+small,
+.small {
+    font-size: 80%;
 }
 
-a > .btn:hover {
-  text-decoration: none;
+a>.btn:hover {
+    text-decoration: none;
 }
 
 article section img {
@@ -290,9 +311,9 @@ article section img {
 }
 
 blockquote {
-	padding: 20px;
-	margin: 15px 0px;
-	font-size: unset;
+    padding: 20px;
+    margin: 15px 0px;
+    font-size: unset;
 }
 
 /*
@@ -333,8 +354,8 @@ I don't use the default pager-class because I want to use the normal buttons wit
 
 .info {
     position: fixed;
-    bottom:0%;
-    width:100%;
+    bottom: 0%;
+    width: 100%;
     padding: 10px;
     display: flex;
     text-align: center;
@@ -342,44 +363,48 @@ I don't use the default pager-class because I want to use the normal buttons wit
 }
 
 .info-content {
-  margin: auto;
-  padding: 10px;
+    margin: auto;
+    padding: 10px;
 }
 
 @media (min-width: 768px) {
-  .info-content {
-    width: 750px;
-  }
+    .info-content {
+        width: 750px;
+    }
 }
+
 @media (min-width: 992px) {
-  .info-content {
-    width: 970px;
-  }
+    .info-content {
+        width: 970px;
+    }
 }
+
 @media (min-width: 1200px) {
-  .info-content {
-    width: 1170px;
-  }
+    .info-content {
+        width: 1170px;
+    }
 }
 
 /* Images */
 .embedded-image {
-	padding: 5px;
+    padding: 5px;
 }
 
 /* Note box */
 .note {
-	padding: 20px;
-	margin: 15px 0px;
+    padding: 20px;
+    margin: 15px 0px;
 }
 
 /* Table */
 table {
     width: 100%;
-	margin: 15px 0px;
+    margin: 15px 0px;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
     padding: 5px;

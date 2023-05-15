@@ -19,7 +19,7 @@ Plug the SD card into your computer and format it to FAT-32 a guide on how to do
 
 To make the process of jailbreaking your console easier we have compiled everything you need to jailbreak your console into a single .zip file which can be downloade [**HERE**](https://github.com/Cal-theDevGirl/Wii-U-Homebrew-Compilation/releases). after you have downloaded the zip file extract it and copy the enclosed folder to your desktop (the folder should be named wiiu-sd-card-compilation) now open the folder named wiiu-sd-card-compilation, select all the files inside it and drag them onto your SD card.
 
-## Jailbreaking the Console 
+## Jailbreaking the Console
 
 Eject the SD card from your computer and insert the SD card into the Wii U’s SD card slot. Now turn on your Wii U and open the internet browser and go to wiiuexploit.xyz then once on the page click run homebrew launcher and hold the X button until a screen says Environment Loader at the top. If your Wii U freezes in the process, turn it off and delete your internet browser save data then try again.
 
@@ -34,24 +34,31 @@ Built in to your Wii U console is a Wii which we can also jailbreak, this is an 
 Once in the Homebrew Channel navigate to an app named d2x cIOS
 
 1. Set everything to match the following:
+
 - Select cIOS: v10 beta52 d2x-v10-beta52-vWii
 - Select cIOS base: 56
 - Select cIOS slot: 249
+
 2. Press the A button to install.
 3. Set everything to match the following:
+
 - Select cIOS: v10 beta52 d2x-v10-beta52-vWii
 - Select cIOS base: 57
 - Select cIOS slot: 250
+
 4. Press the A button to install.
 5. Set everything to match the following:
+
 - Select cIOS: v10 beta52 d2x-v10-beta52-vWii
 - Select cIOS base: 58
 - Select cIOS slot: 251
+
 6. Press the A button to install.
 7. Press the B button to exit.
 Then:
 
 Launch Patched IOS 80 Installer for vWii.
+
 1. Read the warning screen and wait 30 seconds.
 2. Press any buttons to install.
 3. Wait until it says IOS80 Installation is complete!.
