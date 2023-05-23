@@ -1,7 +1,7 @@
 ---
 title: "Dummies Guide Jailbreak The Wii U"
 date: 2023-05-03T16:38:59Z
-draft: false
+draft: true
 tags: [Homebrew, Wii U, Guide, Tutorial, Python, Advanced, Walkthrough, Aroma, Wii U Homebrew, Wii Homebrew, vWii Homebrew, Development, Video Game, Jailbreak]
 ---
 
@@ -10,7 +10,7 @@ tags: [Homebrew, Wii U, Guide, Tutorial, Python, Advanced, Walkthrough, Aroma, W
 - A Wii U with the latest firmware installed (**The Wii U can be from any region**)
 - An SD card or microSD card with an adapter
 - A computer to copy files to the SD card
-- Python Development environment installed on your computer (Download urls can be found [**HERE**](https://https://www.python.org/downloads/))
+- Python Development environment installed on your computer (Download URLS can be found [**HERE**](https://https://www.python.org/downloads/))
 - The WiiU SD card setup tool downloaded on your computer (The latest version can be downloaded [**HERE**](https://github.com/thegamershollow/Wii-U-SD-Card-Setup-Tool/releases/latest))
 - An internet connection setup on your Wii U
 

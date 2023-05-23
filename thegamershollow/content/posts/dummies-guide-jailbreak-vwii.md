@@ -1,7 +1,7 @@
 ---
-title: "Dummies Guide to Jailbreaking the vWii"
+title: "A Dummies Guide to Jailbreaking the vWii"
 date: 2023-05-14T12:24:59Z
-draft: false
+draft: true
 tags: [Homebrew, Wii U, Guide, Tutorial, Python, Advanced, Walkthrough, Aroma, Wii U Homebrew, Wii Homebrew, vWii Homebrew, Development, Video Game, Jailbreak]
 ---
 
