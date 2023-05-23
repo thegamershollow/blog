@@ -12,6 +12,6 @@ TheGamersHollow.github.io covers gaming news, and homebrew tutorials. Game revie
 
 I am a Video Game enthusiast, and a computer programer. I have been playing video games for most of my life, and am an avid part of the Wii U homebrew community.  
 
-<img src="/images/email.png" alt="email" width="5%" height="5%"> <a href="https://mailto:thegamershollow@outlook.com">:thegamershollow@outlook.com</a>
+<img src="/images/email.png" alt="email" width="5%" height="5%"> <a href="mailto:thegamershollow@outlook.com">:thegamershollow@outlook.com</a>
 <img src="/images/twitter.png" alt="twitter" width="5%" height="5%"> <a href="https://twitter.com/thegamershollow">:@thegamershollow</a>
 <img src="/images/github.png" alt="github" width="5%" height="5%"> <a href="https://github.com/thegamershollow">:thegamershollow</a>
