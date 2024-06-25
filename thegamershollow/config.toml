@@ -18,11 +18,6 @@ theme = "hamburg"
     weight = 20
     identifier = "privacy"
     url = "pages/privacy/"
-  [[menu.main]]
-    name = "Wii U HB Guide"
-    weight = 30
-    identifier = "wiiu.guide"
-    url = "/wiiu.guide/"
 
 [params]
     # To load additional CSS styles
