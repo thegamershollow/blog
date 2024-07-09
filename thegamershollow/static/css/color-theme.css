@@ -103,6 +103,10 @@ color: #757575;
     color: #424341;
 }
 
+a:link{
+    text-decoration: underline
+}
+
 /* Primary buttons are the ones in the page (not in the header) */
 .btn-primary {
     background-color: transparent;
