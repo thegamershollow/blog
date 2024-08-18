@@ -13,4 +13,4 @@ I switched to Linux because I found it to be more open and inviting for the twea
 
 ### What I use
 
-I use Linux Mint as my distro of choice because of it's simplicity and ease of use. I know my way around the Linux terminal but wanted a simple distro that I could use on my laptop that wouldn't take a lot of effort to setup. I didn't want to go with Ubuntu because I hate the snap store and packages, so I went with Linux Mint because it's based on Ubuntu.
+I use Linux Mint as my distro of choice because of it's simplicity and ease of use. I know my way around the Linux terminal but wanted a simple distro that I could use on my laptop that wouldn't take a lot of effort to setup. I didn't want to go with Ubuntu because I hate the snap store and packages, so I went with Linux Mint because it's based on Ubuntu. So thats it, thats why I switched to Linux Mint.
