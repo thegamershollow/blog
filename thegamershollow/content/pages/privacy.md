@@ -6,7 +6,7 @@ date: 2023-03-11T13:58:41Z
 
 # Privacy Policy for The Gamers Hollow
 
-At The Gamers Hollow, accessible from [thegamershollow.github.io](thegamershollow.github.io), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Gamers Hollow and how we use it.
+At The Gamers Hollow, accessible from [thegamershollow.space](thegamershollow.space), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Gamers Hollow and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 

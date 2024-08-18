@@ -6,7 +6,7 @@ tags: []
 ---
 ## About this site
 
-TheGamersHollow.github.io covers gaming news, and homebrew tutorials. Game reviews, previews or retro gaming articles are just few things you will find on the site. We like to cover video games past, present and future.
+thegamershollow.space covers gaming news, and homebrew tutorials. Game reviews, previews or retro gaming articles are just few things you will find on the site. We like to cover video games past, present and future.
 
 ### Main Writer: Ethan *aka. TheGamersHollow* 
 
