@@ -1,3 +1,6 @@
 [submodule "thegamershollow/public"]
 	path = thegamershollow/public
 	url = https://github.com/thegamershollow/thegamershollow.github.io.git
+[submodule "thegamershollow/themes/hamburg"]
+	path = thegamershollow/themes/hamburg
+	url = https://github.com/thegamershollow/hugo-theme-hamburg.git
