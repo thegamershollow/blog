@@ -29,6 +29,7 @@ theme = "hamburg"
 	mainSections = ["posts"]
     # Google Analytics 4
     googleAnalytics = 'G-VQX9MGB601'
+    bluesky = "thegamershollow.bsky.social"
 
 [markup]
   [markup.goldmark]
