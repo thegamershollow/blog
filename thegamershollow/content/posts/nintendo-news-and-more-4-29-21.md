@@ -3,6 +3,7 @@ title: 'Nintendo News and more 4/29/21'
 date: Fri, 30 Apr 2021 13:10:00 +0000
 draft: false
 tags: ['Uncategorized']
+author: "TheGamersHollow"
 ---
 
  So i was listening to my favorite Nintendo podcast The Nintendo power cast- N64jsoh.

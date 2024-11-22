@@ -3,6 +3,7 @@ title: 'My Thoughts On Super Mario 3D All-Stars'
 date: Thu, 20 May 2021 12:49:00 +0000
 draft: false
 tags: ['2020', '2021', 'Nintendo', 'Nintendo switch', 'Problems', 'reviews', 'super mario', 'thoughts', 'Uncategorized', 'video games']
+author: "TheGamersHollow"
 ---
 
  Today, i will be telling you my thoughts on Super Mario 3D all stars.

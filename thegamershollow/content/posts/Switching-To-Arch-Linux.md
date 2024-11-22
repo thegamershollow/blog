@@ -3,6 +3,7 @@ title: "Switching to Arch Linux"
 date: 2024-11-21T09:19:03Z
 draft: false
 tags: [Linux, OS, computer, tech, technology, arch linux]
+author: "TheGamersHollow"
 ---
 
 About 3 months ago, I switched to using Linux instead of Mac OS or Windows, because it was more stable and open-source. Since that switch I had been using Linux Mint 22 as my daily driver OS but about a month ago I switched to a distro based on Arch - Endeavour OS - and have loved it since, the freedom of customization the freedom of being able to install almost anything from the AUR and the freedom of open-source software for gaming. 

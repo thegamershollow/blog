@@ -3,6 +3,7 @@ title: "Using Linux as a Daily Driver"
 date: 2024-08-16T10:49:20Z
 draft: false
 tags: [linux, operating systems, daily driver, os, linux mint]
+author: "TheGamersHollow"
 ---
 
 Linux, lot's of people use linux as their daily driver OS and I do as well, I use Linux Mint 22 as my daily drive OS in 2024 because it's simple and easy to manage. I also use Linux because I have freedom of customization and installing anything I want to tweak the operating system as a whole.

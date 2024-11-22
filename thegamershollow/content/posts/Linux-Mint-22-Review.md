@@ -3,6 +3,7 @@ title: "Linux Mint 22 (Wilma) Review"
 date: 2024-08-22T10:42:44Z
 draft: true
 tags: [review, Linux, Linux Mint, Linux Reviews]
+author: "TheGamersHollow"
 ---
 
 #Overview

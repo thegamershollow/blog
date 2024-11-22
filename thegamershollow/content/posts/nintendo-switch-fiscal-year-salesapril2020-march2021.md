@@ -3,6 +3,7 @@ title: 'Nintendo Switch Fiscal Year sales(April,2020-March,2021)'
 date: Tue, 25 May 2021 16:58:00 +0000
 draft: false
 tags: ['2020-2021', 'info', 'Nintendo', 'Nintendo switch', 'Uncategorized']
+author: "TheGamersHollow"
 ---
 
 Nintendo's Fiscal Year just ended so they released their product sales numbers and what they have made this fiscal year. i will be highlighting the software and hardware sales numbers(these are for first party nintendo titles only).  if you would like to see the information for yourself [Click Here](https://www.nintendo.co.jp/ir/pdf/2021/210506_3e.pdf).

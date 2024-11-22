@@ -3,6 +3,7 @@ title: "The Nintendo Switch 2 Rumor Mill Continues"
 date: 2023-03-15T10:57:55Z
 draft: false
 tags: [Nintendo, Nintendo Switch, Rumors, Leaks, Opinion, Analysis, News, Speculation, Nintendo Switch 2/pro, Video Game, Consoles, Hardware, Comparison]
+author: "TheGamersHollow"
 ---
 The likelihood of a new Nintendo console, the Switch 2, and its potential release date isn't out of the question. But Nintendo has yet to make an official announcement, rumors suggest that a new console is in development, and the current Switch, despite being a best-seller, is behind in terms of power and features compared to its rivals, which has fueled speculation of a successor for many.
 

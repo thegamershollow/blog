@@ -3,6 +3,7 @@ title: "An Era of Games at a Close"
 date: 2023-03-29T12:43:29Z
 draft: false
 tags: [Nintendo, Nintendo Wii U, Nintendo 3DS, Software, Homebrew, News, EShop, Nintendo EShop, Shutdown, Issues, Game Preservation, Homebrew Community, Gaming]
+author: "TheGamersHollow"
 ---
 The Nintendo Wii U and 3DS EShops have been officially shutdown, While you’ll no longer be able to purchase games or DLC from either EShop, you’ll still be able to redownload the games you’ve already bought and play online for the time being. The company warned of the shutdown about a year ago, the homebrew community has put lots of effort into archiving all the software that was/is available on the storefront.  
 

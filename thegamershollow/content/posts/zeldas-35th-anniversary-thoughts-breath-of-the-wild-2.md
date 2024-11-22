@@ -1,8 +1,9 @@
 ---
 title: 'Zeldas 35th Anniversary Thoughts (Breath of The Wild 2?)'
 date: Mon, 04 Jan 2021 19:30:00 +0000
-draft: false
+draft: true
 tags: ['Breath of The Wild 2', 'ideas', 'Nintendo', 'Nintendo switch', 'trailer reviews', 'Uncategorized', 'video games', 'Zelda']
+author: "TheGamersHollow"
 ---
 
  [![](https://1.bp.blogspot.com/-gg8dfvBbgb8/X_NkfoaWSoI/AAAAAAAAA3Q/8ntV8WP6eqkRdfCXgYa7h3LT-wn5d5KWgCLcBGAsYHQ/w622-h360/caleb-barefoot-master-sword-hexel-animated2.gif)](https://1.bp.blogspot.com/-gg8dfvBbgb8/X_NkfoaWSoI/AAAAAAAAA3Q/8ntV8WP6eqkRdfCXgYa7h3LT-wn5d5KWgCLcBGAsYHQ/s883/caleb-barefoot-master-sword-hexel-animated2.gif)

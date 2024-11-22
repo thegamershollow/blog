@@ -3,6 +3,7 @@ title: 'Final Major Animal Crossing Direct'
 date: Wed, 20 Oct 2021 17:04:00 +0000
 draft: false
 tags: ['2021', 'animal crossing', 'DLC', 'game updates', 'news', 'Nintendo', 'Nintendo switch', 'thoughts', 'trailer reviews', 'Uncategorized']
+author: "TheGamersHollow"
 ---
 
 \[youtube https://www.youtube.com/watch?v=g6LdBAbT1Xw?controls=0\]

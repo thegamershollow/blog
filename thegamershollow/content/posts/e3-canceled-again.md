@@ -3,6 +3,7 @@ title: "E3 Canceled Yet Again"
 date: 2023-04-05T14:49:02Z
 draft: false
 tags: [E3, ESA, 2023, Canceled, News]
+author: "TheGamersHollow"
 ---
 E3, the video game industry’s largest annual expo, has been canceled for the second consecutive year due to almost every company dropping out of the event. This year’s event was supposed to take place in June in Los Angeles, but in a joint statement, the US’s Entertainment Software Association (ESA) and events company Reedpop announced its cancellation.
 

@@ -1,8 +1,9 @@
 ---
 title: 'Xbox to acquire Activision, Blizzard'
 date: Sun, 06 Feb 2022 16:21:00 +0000
-draft: false
+draft: true
 tags: ['2022', 'activision blizzard', 'ideas', 'microsoft', 'news', 'Phil Spencer', 'Problems', 'thoughts', 'Uncategorized', 'xbox', 'xbox game studios']
+author: "TheGamersHollow"
 ---
 
  

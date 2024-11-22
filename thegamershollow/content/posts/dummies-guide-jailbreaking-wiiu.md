@@ -2,6 +2,7 @@
 title: "A Dummies Guide to Jailbreaking Your Wii U"
 date: 2023-02-18T16:21:56Z
 tags: ['WiiU', 'Homebrew', 'Jailbreak', 'Guide', 'Tutorial', 'Walkthrough', 'Video Game', 'Aroma', 'Development']
+author: "TheGamersHollow"
 ---
 
 ## What You Need

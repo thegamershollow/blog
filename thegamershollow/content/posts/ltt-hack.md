@@ -3,6 +3,7 @@ title: "Linus Media Group Got Hacked"
 date: 2023-03-28T14:46:47Z
 draft: false
 tags: [LTT, YouTube, Google, Breaking News, Important, Article, Overview]
+author: "TheGamersHollow"
 ---
 
 On March 23, 2023, the tech review giant - Linus Tech Tips' main YouTube channel was hacked and turned into a crypto scam channel. Linus, the CEO of the company, was rudely awakened at 3 am to multiple reports of the hack. The LTT community rallied against the hackers, even going as far as using superchats to warn viewers of the scam livestream.  

@@ -3,6 +3,7 @@ title: "Arch Linux Install Guide"
 date: 2024-08-21T12:52:57Z
 draft: false
 tags: [Arch Linux, Linux, Guide, Linux Guide]
+author: "TheGamersHollow"
 ---
 A usefull guide for installing arch linux using the command-line.
 

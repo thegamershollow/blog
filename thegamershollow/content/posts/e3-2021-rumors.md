@@ -3,6 +3,7 @@ title: 'E3 2021 Rumors'
 date: Thu, 06 May 2021 14:00:00 +0000
 draft: false
 tags: ['2021', '2021 rumors', 'DLC', 'E3', 'EA', 'halo', 'ideas', 'microsoft', 'Nintendo', 'Nintendo switch', 'Playstation', 'Problems', 'rumors', 'Sony', 'super mario', 'thoughts', 'Uncategorized', 'video games', 'xbox', 'Zelda']
+author: "TheGamersHollow"
 ---
 
 [![](https://1.bp.blogspot.com/-v8NmVmcj91I/YJP9pQZgAkI/AAAAAAAAAi0/7GFn8az8Uvo4fmDuHfXZsG0EXrVSA5TDgCLcBGAsYHQ/w457-h256/E3_2021_Logo.png)](https://1.bp.blogspot.com/-v8NmVmcj91I/YJP9pQZgAkI/AAAAAAAAAi0/7GFn8az8Uvo4fmDuHfXZsG0EXrVSA5TDgCLcBGAsYHQ/s300/E3_2021_Logo.png)

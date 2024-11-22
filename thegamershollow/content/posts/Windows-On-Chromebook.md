@@ -3,6 +3,7 @@ title: "Running Windows on a Chromebook"
 date: 2024-07-08T19:05:21Z
 draft: false
 tags: [tutorial, guide, chromebook, google, windows, hack, jailbreak]
+author: "TheGamersHollow"
 ---
 
 A guide to installing windows on a Lenove 100e gen2 ast chromebook (for archive purposes)

@@ -1,8 +1,9 @@
 ---
 title: "Nintendo Switch Online Update - Pokemon Stadium?"
 date: 2023-04-05T14:51:33Z
-draft: false
+draft: true
 tags: [Nintendo Switch Online, N64, Pokemon, News, Release, Nintendo, NSO Update]
+author: "TheGamersHollow"
 ---
 
 Nintendo fans have reason to celebrate, as one of the most beloved classic titles from the Nintendo 64 era is making its way to the Nintendo Switch Online service. Pokémon Stadium, the classic 3D battler and minigame collection, will be available to play on Wednesday, April 12th, 2023.

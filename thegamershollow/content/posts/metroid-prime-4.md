@@ -3,6 +3,7 @@ title: 'Metroid Prime 4'
 date: Tue, 01 Jun 2021 17:57:00 +0000
 draft: false
 tags: ['2017', '2020', '2020-2021', '2021', '2021 rumors', '2022', 'delays', 'E3', 'news', 'Nintendo', 'Nintendo switch', 'rumors', 'thoughts', 'trailer reviews', 'Uncategorized', 'video games']
+author: "TheGamersHollow"
 ---
 
   

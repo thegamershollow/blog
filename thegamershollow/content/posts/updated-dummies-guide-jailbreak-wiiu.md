@@ -3,6 +3,7 @@ title: "Dummies Guide Jailbreak The Wii U"
 date: 2023-05-03T16:38:59Z
 draft: true
 tags: [Homebrew, Wii U, Guide, Tutorial, Python, Advanced, Walkthrough, Aroma, Wii U Homebrew, Wii Homebrew, vWii Homebrew, Development, Video Game, Jailbreak]
+author: "TheGamersHollow"
 ---
 
 ## What You Need

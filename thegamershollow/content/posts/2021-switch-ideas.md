@@ -3,6 +3,7 @@ title: '2021 switch ideas'
 date: Fri, 29 Jan 2021 14:21:00 +0000
 draft: false
 tags: ['2021', 'ideas', 'joycon', 'Nintendo', 'Nintendo switch', 'Problems', 'Uncategorized', 'video games']
+author: "TheGamersHollow"
 ---
 
 ![](https://1.bp.blogspot.com/-I8fZGYBBOe4/YBQcPbl6zVI/AAAAAAAAA6w/PTeN6DmkqtEoePAzC_K6kOBS8h2-eJlSgCLcBGAsYHQ/w640-h329/Nintendo%2Bswitch-clipart.png)
