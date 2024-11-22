@@ -24,12 +24,12 @@ theme = "hamburg"
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	subtitle = "A Blog About Gaming For Gamers."
+	subtitle = "A Blog about my hobbies and occasional news posts"
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["posts"]
     # Google Analytics 4
     googleAnalytics = 'G-VQX9MGB601'
-    bluesky = "thegamershollow.bsky.social"
+    bluesky = "thegamershollow.space"
 
 [markup]
   [markup.goldmark]
