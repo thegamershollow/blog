@@ -1,6 +1,6 @@
 baseurl = "https://thegamershollow.github.io/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = "true"
+defaultContentLanguageInSubdir = "false"
 title = "The Gamer's Hollow"
 theme = "hamburg"
 
@@ -10,14 +10,19 @@ theme = "hamburg"
 [menu]
   [[menu.main]]
     name = "About"
-    weight = 40
+    weight = 50
     identifier = "about"
     url = "pages/about/"
+  #[[menu.main]]
+    #name = "Privacy"
+    #weight = 30
+    #identifier = "privacy"
+    #url = "pages/privacy/"
   [[menu.main]]
-    name = "Privacy"
-    weight = 20
-    identifier = "privacy"
-    url = "pages/privacy/"
+    name = "Links"
+    weight = 10
+    identifier = "links"
+    url = "links/"
 
 [params]
     # To load additional CSS styles
