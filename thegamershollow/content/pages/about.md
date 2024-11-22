@@ -12,4 +12,4 @@ thegamershollow.space covers gaming news, and homebrew tutorials. Game reviews, 
 
 I am a Video Game enthusiast, and a computer programer. I have been playing video games for most of my life, and am an avid part of the Wii U and 3DS homebrew community.  
 
-My Socials[thegamershollow.space/links](https://thegamershollow.space/links)
+My Socials: [thegamershollow.space/links](https://thegamershollow.space/links)
